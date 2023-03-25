@@ -1,0 +1,5 @@
+--Aşağıdaki Kodu Çalıstırın--
+pip3 install -r requirements.txt
+
+Başlatma komut
+rayn.py
